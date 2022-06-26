@@ -1,0 +1,20 @@
+# balance-fetcher-contracts
+
+#### Deployed Addresses
+
+- mainnet: `0xb1f8e55c7f64d203c1400b9d8555d050f94adf39`
+- ropsten: `0x8D9708f3F514206486D7E988533f770a16d074a7`
+- rinkeby: `0x3183B673f4816C94BeF53958BaF93C671B7F8Cf2`
+- kovan: `0x55ABBa8d669D60A10c104CC493ec5ef389EC92bb`
+- goerli: `0x9788C4E93f9002a7ad8e72633b11E8d1ecd51f9b`
+- binance smart chain mainnet: `0x2352c63A83f9Fd126af8676146721Fa00924d7e4`
+- binance smart chain testnet: `0x2352c63A83f9Fd126af8676146721Fa00924d7e4`
+- polygon: `0x2352c63A83f9Fd126af8676146721Fa00924d7e4`
+- mumbai: `0x2352c63A83f9Fd126af8676146721Fa00924d7e4`
+- Optimism: `0xB1c568e9C3E6bdaf755A60c7418C269eb11524FC`
+- Optimism Kovan: `0xB1c568e9C3E6bdaf755A60c7418C269eb11524FC`
+- arbitrum: `0x151E24A486D7258dd7C33Fb67E4bB01919B7B32c`
+- avalanche: `0xD023D153a0DFa485130ECFdE2FAA7e612EF94818` and `0xE0baF851F839874141bB73327f9C606147a52358`
+- fantom: `0x07f697424ABe762bB808c109860c04eA488ff92B` and `0xfC701A6b65e1BcF59fb3BDbbe5cb41f35FC7E009`
+- ether-classic: `0xfC701A6b65e1BcF59fb3BDbbe5cb41f35FC7E009`
+- Tron: `TN8RtFXeQZyFHGmH1iiSRm5r4CRz1yWkCf` --> Yes, it also works in Tron! Use hex addresses format to interact with it (41...).
